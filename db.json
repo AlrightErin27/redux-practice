@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Harry Potter",
-      "image": "/src/imgs/harry.png",
+      "image": "../imgs/harry.png",
       "house": "Gryffindor"
     },
     {
